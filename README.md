@@ -1,3 +1,7 @@
+# This repo is no longer maintained.
+
+Please see https://github.com/elastic/examples for more up to date patterns, including dashboards.
+
 # Logstash Grok Patterns, From You!
 
 A collection of Grok patterns for Logstash, from the Community.
